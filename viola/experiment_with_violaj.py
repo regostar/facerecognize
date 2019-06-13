@@ -2,7 +2,7 @@
 """
 Created on Wed Apr  4 15:39:42 2018
 
-@author: sumi
+@author: rego
 """
 
 
